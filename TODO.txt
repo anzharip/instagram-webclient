@@ -1,0 +1,6 @@
+201507091657
+- Change global variable use with session. 
+- Fix the user_followed_by and recent_media iterator on @route user_followed_by. 
+- Fix also iterator on the template on @route user_followed_by.
+- Fix also iterator on @post user_followed_by.
+- Fix the iterator on the JS too. 
